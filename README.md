@@ -24,4 +24,5 @@ SecureSwipe is an advanced credit card fraud detection system designed to identi
 - **Git/GitHub:** For version control and collaboration during development.
 
 SecureSwipe provides a robust and reliable solution to credit card fraud, ensuring that both businesses and consumers can transact with confidence.
+
 Dataset file: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
